@@ -22,7 +22,7 @@ const connection = mysql.createConnection({
     //database: 'c237_ca2_project_database'
     host: 'sql.freedb.tech',
     user: 'freedb_bohao',
-    password: 'Sq8&72fVN*2MfV&',
+    password: '!Nm&%@QQG*xPz27',
     database: 'freedb_ca2project'
 });
 connection.connect((err) => {
